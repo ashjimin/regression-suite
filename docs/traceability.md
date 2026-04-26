@@ -1,0 +1,43 @@
+# Traceability Matrix
+
+| Requirement | Test Case ID | Coverage Type |
+| ----------- | ------------ | ------------- |
+| AUTH-01 | TC_AUTH_001 | Functional |
+| AUTH-02 | TC_AUTH_002 | Functional |
+| AUTH-03 | TC_AUTH_003 | Negative |
+| AUTH-04 | TC_AUTH_004 | Edge |
+| AUTH-05 | TC_AUTH_005 | Security |
+| AUTH-06 | TC_AUTH_006 | Functional |
+| DASH-01 | TC_DASH_001 | Functional |
+| DASH-02 | TC_DASH_002 | Functional |
+| DASH-03 | TC_DASH_003 | Performance |
+| DASH-04 | TC_DASH_004 | Edge |
+| DASH-05 | TC_DASH_005 | Functional |
+| TRANS-01 | TC_TRANS_001 | Functional |
+| TRANS-02 | TC_TRANS_002 | Functional |
+| TRANS-03 | TC_TRANS_003 | Functional |
+| TRANS-04 | TC_TRANS_004 | Edge |
+| TRANS-05 | TC_TRANS_005 | Negative |
+| TRANS-06 | TC_TRANS_006 | Security |
+| TRANS-07 | TC_TRANS_007 | Functional |
+| TRANS-08 | TC_TRANS_008 | Functional |
+| HIST-01 | TC_HIST_001 | Functional |
+| HIST-02 | TC_HIST_002 | Functional |
+| HIST-03 | TC_HIST_003 | Functional |
+| HIST-04 | TC_HIST_004 | Functional |
+| HIST-05 | TC_HIST_005 | Functional |
+| HIST-06 | TC_HIST_006 | Edge |
+| HIST-07 | TC_HIST_007 | Compliance |
+| PROFILE-01 | TC_PROFILE_001 | Functional |
+| PROFILE-02 | TC_PROFILE_002 | Security |
+| PROFILE-03 | TC_PROFILE_003 | Functional |
+| PROFILE-04 | TC_PROFILE_004 | Functional |
+| PROFILE-05 | TC_PROFILE_005 | Functional |
+| PERFORMANCE-01 | TC_PERF_001 | Performance |
+| PERFORMANCE-02 | TC_PERF_002 | Performance |
+| SECURITY-01 | TC_SEC_001 | Security |
+| SECURITY-02 | TC_SEC_002 | Security |
+| SECURITY-03 | TC_SEC_003 | Security |
+| RELIABILITY-01 | TC_REL_001 | Reliability |
+| ACCESSIBILITY-01 | TC_ACC_001 | Accessibility |
+| COMPLIANCE-01 | TC_COMP_001 | Compliance |
